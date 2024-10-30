@@ -6,3 +6,9 @@ h1 {
   background-color: black;
   color: whitesmoke;
 }
+
+ul {
+  list-style: none;
+  background-color: grey; 
+  color: whitesmoke;
+}
