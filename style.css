@@ -7,6 +7,7 @@ body{
 h1 {
   background-color: black;
   color: whitesmoke;
+  font-size: 100px;
 }
 
 ul {
@@ -16,4 +17,5 @@ ul {
 
 a {
   color: whitesmoke;
+  font-size: 80px;
 }
