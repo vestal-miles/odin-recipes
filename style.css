@@ -10,5 +10,9 @@ h1 {
 ul {
   list-style: none;
   background-color: grey; 
+}
+
+a {
   color: whitesmoke;
+  text-align: center;
 }
